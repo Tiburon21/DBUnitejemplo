@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dataset>
+  <vehiculo id="1" modelo="1986"/>
+  <vehiculo id="5" modelo="1989"/>
+  <vehiculo id="6" modelo="2015"/>
+  <vehiculo id="7" modelo="2016"/>
+  <vehiculo id="8" modelo="2017"/>
+  <vehiculo id="9" modelo="2020"/>
+</dataset>

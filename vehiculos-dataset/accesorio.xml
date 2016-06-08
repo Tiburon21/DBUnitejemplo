@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dataset>
+  <accesorio id="2" nombre="spoiler" vehiculo_id="6"/>
+  <accesorio id="3" nombre="spoiler" vehiculo_id="7"/>
+  <accesorio id="4" nombre="spoiler" vehiculo_id="8"/>
+  <accesorio id="5" nombre="luces neon" vehiculo_id="8"/>
+  <accesorio id="6" nombre="rines cromados" vehiculo_id="9"/>
+  <accesorio id="7" nombre="nitrogeno" vehiculo_id="9"/>
+</dataset>
